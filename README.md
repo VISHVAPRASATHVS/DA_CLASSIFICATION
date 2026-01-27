@@ -1,6 +1,6 @@
 # DA_CLASSIFICATION
 
-# Breast Cancer Prediction using Logistic Regression
+# Breast Cancer Classification using Logistic Regression
 
 Overview:
 This notebook demonstrates a machine learning workflow to predict breast cancer diagnosis (Malignant or Benign) using a Logistic Regression model. The data is sourced from a Snowflake database and processed using Python's data science libraries.
